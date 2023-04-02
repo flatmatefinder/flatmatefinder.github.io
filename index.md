@@ -25,6 +25,6 @@ Roomate Finder is a website that is meant to bring people together as roomates. 
 
 ## Team
 
-RoomateFinder is designed, implemented, and <st>maintained<st> by [Xavier Burt](https://xavierburt.github.io), 
+RoomateFinder is designed, implemented, and <s>maintained</s> by [Xavier Burt](https://xavierburt.github.io), 
 [Eric Orozco-Ciprian](https://erickorozcociprian.github.io/), [Kaysha Kealalio](https://kayshakk.github.io/), 
 [Briana Lee](http://bri111.github.io/), and [Nicholas Beydler](https://beydlern.github.io/).
