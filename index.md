@@ -3,14 +3,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Deployment](#deployment)
-* [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history)
-* [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
+* [Team Contract](#contract)
 * [Team](#team)
 
 ## Overview
@@ -22,6 +15,8 @@ Roomate Finder is a website that is meant to bring people together as roomates. 
 * [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
+## Contract
+Every member of this team has signed and agreed to all of the terms found at https://docs.google.com/document/d/15glZaHxvn-8OiJt8GSdNYwgJU4knJpIULpwFodKEaSY/edit?usp=sharing.
 
 ## Team
 
