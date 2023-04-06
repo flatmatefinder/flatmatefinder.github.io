@@ -20,6 +20,5 @@ Every member of this team has signed and agreed to all of the terms in our [cont
 
 ## Team
 
-RoomateFinder is designed, implemented, and <s>maintained</s> by [Xavier Burt](https://xavierburt.github.io), 
-[Eric Orozco-Ciprian](https://erickorozcociprian.github.io/), [Kaysha Kealalio](https://kayshakk.github.io/), 
-[Briana Lee](http://bri111.github.io/), and [Nicholas Beydler](https://beydlern.github.io/).
+FlatmateFinder is designed, implemented, and <s>maintained</s> by  [Nicholas Beydler](https://beydlern.github.io/), [Xavier Burt](https://xavierburt.github.io), [Kaysha Kealalio](https://kayshakk.github.io/), [Briana Lee](http://bri111.github.io/), and
+[Eric Orozco-Ciprian](https://erickorozcociprian.github.io/), 
