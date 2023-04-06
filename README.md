@@ -1,2 +1,2 @@
-# roomatefinder.github.io
+# flatmatefinder.github.io
 The website
