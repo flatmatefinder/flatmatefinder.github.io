@@ -1,4 +1,4 @@
-# Roomate Finder
+# FlatmateFinder
 
 ## Table of contents
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-Roomate Finder is a website that is meant to bring people together as roomates. It illustrates various technologies, including:
+FlatmateFinder is a website that is meant to bring people together as roommates. It illustrates various technologies, including:
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
@@ -16,7 +16,7 @@ Roomate Finder is a website that is meant to bring people together as roomates. 
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Contract
-Every member of this team has signed and agreed to all of the terms found at https://docs.google.com/document/d/15glZaHxvn-8OiJt8GSdNYwgJU4knJpIULpwFodKEaSY/edit?usp=sharing.
+Every member of this team has signed and agreed to all of the terms in our [contract](https://docs.google.com/document/d/15glZaHxvn-8OiJt8GSdNYwgJU4knJpIULpwFodKEaSY/edit?usp=sharing).
 
 ## Team
 
