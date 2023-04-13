@@ -48,7 +48,7 @@ The signup page for users to create an account to have access to the map and con
 <img src="../img/meettheteam.png">
 Meet the team who created the application. 
 
-<img src="termsofservice.png">
+<img src="../img/termsofservice.png">
 Here are some terms and conditions we added to our website. 
 
 
