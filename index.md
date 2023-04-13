@@ -34,6 +34,8 @@ The web application's source code can be found at our github organization called
 
 The [milestone 1 project](https://github.com/orgs/flatmatefinder/projects/1/) is a tabular view of all of the issues associated with this milestone.
 
+### Screenshots
+
 <img href="lp-not-logged-in.png"> </img>
 <img href="lp-logged-in.png"> </img>
 <img href="lp-admin.png"> </img>
@@ -46,6 +48,8 @@ The [milestone 1 project](https://github.com/orgs/flatmatefinder/projects/1/) is
 ### Project
 
 The [milestone 2 project](https://github.com/orgs/flatmatefinder/projects/2/) is a tabular view of all of the issues associated with this milestone.
+
+### Screenshots
 
 ## Contract
 Every member of this team has signed and agreed to all of the terms in our [contract](https://docs.google.com/document/d/15glZaHxvn-8OiJt8GSdNYwgJU4knJpIULpwFodKEaSY/edit?usp=sharing).
