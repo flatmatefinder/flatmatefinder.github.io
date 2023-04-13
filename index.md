@@ -49,7 +49,6 @@ The [milestone 1 project](https://github.com/orgs/flatmatefinder/projects/1/) is
 
 The [milestone 2 project](https://github.com/orgs/flatmatefinder/projects/2/) is a tabular view of all of the issues associated with this milestone.
 
-### Screenshots
 
 ## Contract
 Every member of this team has signed and agreed to all of the terms in our [contract](https://docs.google.com/document/d/15glZaHxvn-8OiJt8GSdNYwgJU4knJpIULpwFodKEaSY/edit?usp=sharing).
