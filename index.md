@@ -36,16 +36,16 @@ The [milestone 1 project](https://github.com/orgs/flatmatefinder/projects/1/) is
 
 ### Screenshots
 
-<img href="homepage.png"> </img>
+<img src="../img/homepage.png"> </img>
 On the landing page, the users will be able to gain more understanding about the application.
 
-<img href="login.png"> </img>
+<img href="../img/login.png"> </img>
 The login page for users to have access to the map and connect. 
 
-<img href="signup.png"> </img>
+<img href="../img/signup.png"> </img>
 The signup page for users to create an account to have access to the map and connect. 
 
-<img href="meettheteam.png"> </img>
+<img href="../img/meettheteam.png"> </img>
 Meet the team who created the application. 
 
 <img href="termsofservice.png"> </img>
