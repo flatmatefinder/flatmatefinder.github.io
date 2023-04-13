@@ -36,12 +36,22 @@ The [milestone 1 project](https://github.com/orgs/flatmatefinder/projects/1/) is
 
 ### Screenshots
 
-<img href="lp-not-logged-in.png"> </img>
-<img href="lp-logged-in.png"> </img>
-<img href="lp-admin.png"> </img>
-<img href="profile-page.png"> </img>
-<img href="sign-in.png"> </img>
-<img href="register.png"> </img>
+<img href="homepage.png"> </img>
+On the landing page, the users will be able to gain more understanding about the application.
+
+<img href="login.png"> </img>
+The login page for users to have access to the map and connect. 
+
+<img href="signup.png"> </img>
+The signup page for users to create an account to have access to the map and connect. 
+
+<img href="meettheteam.png"> </img>
+Meet the team who created the application. 
+
+<img href="termsofservice.png"> </img>
+Here are some terms and conditions we added to our website. 
+
+
 
 ## Phase 2:
 
