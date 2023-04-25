@@ -58,7 +58,26 @@ Here are some terms and conditions we added to our website.
 ### Project
 
 The [milestone 2 project](https://github.com/orgs/flatmatefinder/projects/2/) is a tabular view of all of the issues associated with this milestone.
+<img src="img/adminlandingpage.gif">
+On the admin landing page, the admin will be able to gain more understanding about the application and it displays their profile.
 
+<img src="img/settings.gif">
+The settings page for users to have access to the visibility and deleting their account. 
+
+<img src="img/signup.png">
+The signup page for users to create an account to have access to the map and connect. 
+
+<img src="img/foryou.png">
+Allows users to view other users on the site. 
+
+<img src="img/profile.png">
+Displays the creation and editting of the profile page.
+
+## Phase 3:
+
+### Project
+
+The [milestone 3 project](https://github.com/orgs/flatmatefinder/projects/4/) is a tabular view of all of the issues associated with this milestone.
 
 ## Contract
 Every member of this team has signed and agreed to all of the terms in our [contract](https://docs.google.com/document/d/15glZaHxvn-8OiJt8GSdNYwgJU4knJpIULpwFodKEaSY/edit?usp=sharing).
