@@ -62,10 +62,7 @@ The [milestone 2 project](https://github.com/orgs/flatmatefinder/projects/2/) is
 On the admin landing page, the admin will be able to gain more understanding about the application and it displays their profile.
 
 <img src="img/settings.gif">
-The settings page for users to have access to the visibility and deleting their account. 
-
-<img src="img/signup.png">
-The signup page for users to create an account to have access to the map and connect. 
+The settings page for users to have access to the visibility and deleting their account.  
 
 <img src="img/foryou.png">
 Allows users to view other users on the site. 
