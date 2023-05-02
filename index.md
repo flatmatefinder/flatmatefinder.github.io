@@ -20,6 +20,8 @@ FlatmateFinder is a website that is meant to bring people together as roommates.
 
 The Website rolls out in multiple different phases, we will call these phases Phase 1, Phase 2, and Phase 3.
 
+![ci-badge](https://github.com/flatmatefinder/flatmatefinder/workflows/FlatmateFinder/badge.svg)
+
 ## Deployment
 
 The website [flatmatefinder.xyz](https://flatmatefinder.xyz/) is our website that links to our deployed web application running on Digital Ocean. It contains HTTPS communication to encrypt the information that flows between the server and the browser. In addition, the web application is hosted using a custom domain name that corresponds to our final project name.
@@ -68,7 +70,7 @@ The settings page for users to have access to the visibility and deleting their 
 Allows users to view other users on the site. 
 
 <img src="img/profile.png">
-Displays the creation and editting of the profile page.
+Displays the creation and editing of the profile page.
 
 ## Phase 3:
 
