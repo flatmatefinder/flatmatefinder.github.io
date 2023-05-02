@@ -78,7 +78,7 @@ Displays the creation and editing of the profile page.
 
 The [milestone 3 project](https://github.com/orgs/flatmatefinder/projects/4/) is a tabular view of all of the issues associated with this milestone.
 
-
+### Suggestions
 <img src="img/suggestions.png">
 Allows any user to submit a suggestions form that will show up on an Admin's suggestions page.
 
