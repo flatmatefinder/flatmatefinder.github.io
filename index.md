@@ -33,61 +33,45 @@ The web application's source code can be found at our github organization called
 
 ## User Guide
 ### Welcome Page
-![](..img/homepage.png)
+<img src="img/homepage.png">
 
 When you first visit [flatmatefinder.xyz](https://flatmatefinder.xyz/), you'll be warmly welcomed to the homepage. From there you can create a new account and profile. 
 
 ### Sign Up
-![](..img/signup.png)
-
-When you click on sign up, you'll be redirected to the signup page. Enter your email and password to create an account
-
-#### Add Profile
-![](assets/img/guidepics/addprofile.png)
-
-Once you create an account, you'll be asked to create a Profile. Input your first and last name, username, profile picture, and create a small bio about yourself.
-
-#### Home Page
-![](assets/img/guidepics/homepage.png)
-
-Once you create your profile, you will be redirected to your personal home page. You'll notice that you now have access to add and view sessions. You can also view your profile as well as all the courses listed in Ohana Scholars.
-
-#### SignUp Page
-![](assets/img/guidepics/profilepage.png)
-
-On the top right of the page (where your email is located), there is a dropdown menu to sign out and view your profile page. When you click view profile, you'll see the beautiful profile you created earlier.
-
-#### Edit Profile
-![](assets/img/guidepics/editprofile.png)
-
-Following the profile page, below it will be a link that allows you to edit your profile. You'll be redirected to this page where you can change the info listed on your profile.
-
-#### List Sessions
-![](assets/img/guidepics/listsessions.png)
-
-When you click list sessions on the navbar, you'll be redirected to the page that lists all the created sessions.
-
-#### Add Sessions
-![](assets/img/guidepics/addsession.png)
-
-From the list sessions page, when you click create new session, you'll be redirected to a form page that will allow you to add a new session to the list sessions page. If you click on the filter button on the top right corner, you can filter the sessions by their subjects. 
-
-
-
-<img src="img/homepage.png">
-On the landing page, the users will be able to gain more understanding about the application.
-
-<img src="img/login.png">
-The login page for users to have access to the map and connect. 
-
 <img src="img/signup.png">
-The signup page for users to create an account to have access to the map and connect. 
 
-<img src="img/meettheteam.png">
-Meet the team who created the application. 
+The signup page for users to create an account to have access to the map and connect. To create an account, use a UH email address and password. 
 
-<img src="img/termsofservice.png">
-Here are some terms and conditions we added to our website. 
+### User Landing Page
+<img src="img/userlandingpage.png">
+
+Once you create an account, there are steps to creating your profile and navigating through the site. 
+
+### Login Page
+<img src="img/login.png">
+
+The login page for users to have access to the map and connect with people in order to find a flatmate. 
+
+### Profile Page
+<img src="img/profilepage.png">
+
+Most importantly, create your profile in order to get paired up with potential roommates! Input data and check the For You page to see you matched with. 
+
+### For You Page
+<img src="img/foryoupage.png">
+
+The For You Page is using an algorithm that pairs you with people based on the information you inputted in your Profile. 
+
+### Map Page
+<img src="img/mappage.png">
+
+The Map Page is where you will be able to place pins on where you are going to be living and then see if there are any people who will be living in the same place or area that you can room with.
+
+### Suggestions Page
+<img src="img/suggestions.png">
+
+After you visited our site if you could suggest some feedback. 
+
 
 ## Phase 1:
 
