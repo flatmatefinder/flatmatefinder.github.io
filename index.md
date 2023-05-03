@@ -6,7 +6,7 @@
 * [Deployment](#deployment)
 * [Phase 1](#overview)
 * [Phase 2](#overview)
-* [Phase 3] (#overview)
+* [Phase 3](#overview)
 * [Team Contract](#contract)
 * [Team](#team)
 
@@ -31,12 +31,6 @@ The website [flatmatefinder.xyz](https://flatmatefinder.xyz/) is our website tha
 
 The web application's source code can be found at our github organization called [flatmatefinder](https://github.com/flatmatefinder).
 
-## Phase 1:
-
-### Project
-
-The [milestone 1 project](https://github.com/orgs/flatmatefinder/projects/1/) is a tabular view of all of the issues associated with this milestone.
-
 ### Screenshots
 
 <img src="img/homepage.png">
@@ -54,6 +48,11 @@ Meet the team who created the application.
 <img src="img/termsofservice.png">
 Here are some terms and conditions we added to our website. 
 
+## Phase 1:
+
+### Project
+
+The [milestone 1 project](https://github.com/orgs/flatmatefinder/projects/1/) is a tabular view of all of the issues associated with this milestone.
 
 
 ## Phase 2:
