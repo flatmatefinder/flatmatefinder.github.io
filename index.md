@@ -43,7 +43,7 @@ When you first visit [flatmatefinder.xyz](https://flatmatefinder.xyz/), you'll b
 The signup page for users to create an account to have access to the map and connect. To create an account, use a UH email address and password. 
 
 ### User Landing Page
-<img src="img/userlandingpage.png">
+<img src="img/userlandingpage.gif">
 
 Once you create an account, there are steps to creating your profile and navigating through the site. 
 
