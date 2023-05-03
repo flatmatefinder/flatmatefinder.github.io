@@ -31,7 +31,48 @@ The website [flatmatefinder.xyz](https://flatmatefinder.xyz/) is our website tha
 
 The web application's source code can be found at our github organization called [flatmatefinder](https://github.com/flatmatefinder).
 
-### Screenshots
+## User Guide
+### Welcome Page
+![](..img/homepage.png)
+
+When you first visit [flatmatefinder.xyz](https://flatmatefinder.xyz/), you'll be warmly welcomed to the homepage. From there you can create a new account and profile. 
+
+### Sign Up
+![](..img/signup.png)
+
+When you click on sign up, you'll be redirected to the signup page. Enter your email and password to create an account
+
+#### Add Profile
+![](assets/img/guidepics/addprofile.png)
+
+Once you create an account, you'll be asked to create a Profile. Input your first and last name, username, profile picture, and create a small bio about yourself.
+
+#### Home Page
+![](assets/img/guidepics/homepage.png)
+
+Once you create your profile, you will be redirected to your personal home page. You'll notice that you now have access to add and view sessions. You can also view your profile as well as all the courses listed in Ohana Scholars.
+
+#### SignUp Page
+![](assets/img/guidepics/profilepage.png)
+
+On the top right of the page (where your email is located), there is a dropdown menu to sign out and view your profile page. When you click view profile, you'll see the beautiful profile you created earlier.
+
+#### Edit Profile
+![](assets/img/guidepics/editprofile.png)
+
+Following the profile page, below it will be a link that allows you to edit your profile. You'll be redirected to this page where you can change the info listed on your profile.
+
+#### List Sessions
+![](assets/img/guidepics/listsessions.png)
+
+When you click list sessions on the navbar, you'll be redirected to the page that lists all the created sessions.
+
+#### Add Sessions
+![](assets/img/guidepics/addsession.png)
+
+From the list sessions page, when you click create new session, you'll be redirected to a form page that will allow you to add a new session to the list sessions page. If you click on the filter button on the top right corner, you can filter the sessions by their subjects. 
+
+
 
 <img src="img/homepage.png">
 On the landing page, the users will be able to gain more understanding about the application.
@@ -75,7 +116,7 @@ Allows any user to submit a suggestions form that will show up on an Admin's sug
 <img src="img/adminsuggestions.png">
 Displays on an Admin's suggestions all other user suggestion forms submitted and timestamped.
 
-## Feedback
+## Community Feedback
 
 ### Arlen
 Overall Exerience With Website: 4/5
