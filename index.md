@@ -7,7 +7,7 @@
 * [Phase 1](#Project)
 * [Phase 2](#Project)
 * [Phase 3](#Project)
-* [Developer Guide](#Developer Guide)
+* [Developer Guide](#Developer-Guide)
 * [Team Contract](#contract)
 * [Team](#team)
 
@@ -103,7 +103,7 @@ Displays on an Admin's suggestions all other user suggestion forms submitted and
 
 ## Developer Guide
 
-To modify this web application, go to the [flatmatefinder](https://github.com/flatmatefinder/flatmatefinder) repository on Github. Then, clone the repository to your own local filesystem by clicking on the green **Code** button and selecting an option. After creating this local repository and opening it up in an IDE of your choice, you may edit this repository as your own. To run this web application on your local system, open up your command line interface, change your directory into the `/app` directory within your local repository. The, run `meteor npm install`, which installs the required `npm` files. Next, to run the web application, execute `meteor npm run start`, which will build the website and host it at [localhost:3000](http://localhost:3000/).
+To modify this web application, go to the [flatmatefinder](https://github.com/flatmatefinder/flatmatefinder) repository on Github. Then, clone the repository to your own local filesystem by clicking on the green **Code** button and selecting an option. After creating this local repository and opening it up in an IDE of your choice, you may edit this repository as your own. To run this web application on your local system, open up your command line interface, change your directory into the `/app` directory within your local repository. Then run `meteor npm install`, which installs the required `npm` files. Next, to run the web application, execute `meteor npm run start`, which will build the website and host it at [localhost:3000](http://localhost:3000/).
 
 ## Community Feedback
 
