@@ -89,7 +89,7 @@ Info entered into the profile/account setup should be used throughout the site. 
 Overall Exerience With Website: 4/5
 I thought it was pretty straight to the point. I'm sure it's gonna be very helpful for those looking. I think it's good to have what you're looking for and how you are.	I was a little confused when I was putting in extra information about myself because I know it said to submit earlier, but when I hit enter for the others it would save so I wasn't sure if I was just doing it wrong, but overall it was good.
 
-# Anuhea
+### Anuhea
 Overall Exerience With Website: 3/5
 1. choose more professional photo
 2. based off chosen photo, color the text boxes accordingly (ex: if you were to use the sunset pic, i'd make the text boxes shades of orange and yellow)
