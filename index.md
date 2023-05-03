@@ -6,6 +6,7 @@
 * [Deployment](#deployment)
 * [Phase 1](#overview)
 * [Phase 2](#overview)
+* [Phase 3] (#overview)
 * [Team Contract](#contract)
 * [Team](#team)
 
@@ -60,17 +61,6 @@ Here are some terms and conditions we added to our website.
 ### Project
 
 The [milestone 2 project](https://github.com/orgs/flatmatefinder/projects/2/) is a tabular view of all of the issues associated with this milestone.
-<img src="img/adminlandingpage.gif">
-On the admin landing page, the admin will be able to gain more understanding about the application and it displays their profile.
-
-<img src="img/settings.gif">
-The settings page for users to have access to the visibility and deleting their account.  
-
-<img src="img/foryou.png">
-Allows users to view other users on the site. 
-
-<img src="img/profile.png">
-Displays the creation and editing of the profile page.
 
 ## Phase 3:
 
@@ -85,6 +75,8 @@ Allows any user to submit a suggestions form that will show up on an Admin's sug
 
 <img src="img/adminsuggestions.png">
 Displays on an Admin's suggestions all other user suggestion forms submitted and timestamped.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGKwoEqoTYOTuSL2DUqJ4p_jPe-572PPG0LN7p4jh4i3OQdNriA3Oetj8SU8tr3gwYwRKfOnnVfKtL/pubhtml?widget=true&amp;headers=false" height="500" width="100vw"></iframe>
 
 
 ## Contract
