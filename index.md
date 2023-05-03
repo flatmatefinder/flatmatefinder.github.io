@@ -4,9 +4,9 @@
 
 * [Overview](#overview)
 * [Deployment](#deployment)
-* [Phase 1](#Phase 1:)
-* [Phase 2](#Phase 2:)
-* [Phase 3](#Phase 3:)
+* [Phase 1](#Project)
+* [Phase 2](#Project)
+* [Phase 3](#Project)
 * [Team Contract](#contract)
 * [Team](#team)
 
@@ -77,15 +77,15 @@ Displays on an Admin's suggestions all other user suggestion forms submitted and
 
 ## Feedback
 
-# Arlen
+### Arlen
 Overall Exerience With Website: 4/5
 I liked how easy it was to customize. I think that some of the preferences do not work for the "dealbreakers" and last one.
 
-# Brandon
+### Brandon
 Overall Exerience With Website: 4/5
 Info entered into the profile/account setup should be used throughout the site. (example: name). Not totally intuitive that I need to sign up to begin. that should be a call to action on the homepage. Overall very good. React makes it fast after initial load. :) 
 
-# Abigail
+### Abigail
 Overall Exerience With Website: 4/5
 I thought it was pretty straight to the point. I'm sure it's gonna be very helpful for those looking. I think it's good to have what you're looking for and how you are.	I was a little confused when I was putting in extra information about myself because I know it said to submit earlier, but when I hit enter for the others it would save so I wasn't sure if I was just doing it wrong, but overall it was good.
 
@@ -97,7 +97,7 @@ Overall Exerience With Website: 3/5
 4. i want to see what john foo's personality would be
 5. if can, try add more tabs to utilize the top bar
 
-# Jeremiah
+### Jeremiah
 Overall Exerience With Website: 3/5
 Issues so far:
 * In the CREATE/UPDATE PROFILE page, the text boxes are unable to receive/create new entries after clicking on any of the dropdown menus. They will only work again once the UPDATE button is clicked.
