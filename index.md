@@ -4,9 +4,9 @@
 
 * [Overview](#overview)
 * [Deployment](#deployment)
-* [Phase 1](#overview)
-* [Phase 2](#overview)
-* [Phase 3](#overview)
+* [Phase 1](#Phase 1:)
+* [Phase 2](#Phase 2:)
+* [Phase 3](#Phase 3:)
 * [Team Contract](#contract)
 * [Team](#team)
 
@@ -75,7 +75,36 @@ Allows any user to submit a suggestions form that will show up on an Admin's sug
 <img src="img/adminsuggestions.png">
 Displays on an Admin's suggestions all other user suggestion forms submitted and timestamped.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGKwoEqoTYOTuSL2DUqJ4p_jPe-572PPG0LN7p4jh4i3OQdNriA3Oetj8SU8tr3gwYwRKfOnnVfKtL/pubhtml?widget=true&amp;headers=false" height="500" width="100vw"></iframe>
+## Feedback
+
+# Arlen
+Overall Exerience With Website: 4/5
+I liked how easy it was to customize. I think that some of the preferences do not work for the "dealbreakers" and last one.
+
+# Brandon
+Overall Exerience With Website: 4/5
+Info entered into the profile/account setup should be used throughout the site. (example: name). Not totally intuitive that I need to sign up to begin. that should be a call to action on the homepage. Overall very good. React makes it fast after initial load. :) 
+
+# Abigail
+Overall Exerience With Website: 4/5
+I thought it was pretty straight to the point. I'm sure it's gonna be very helpful for those looking. I think it's good to have what you're looking for and how you are.	I was a little confused when I was putting in extra information about myself because I know it said to submit earlier, but when I hit enter for the others it would save so I wasn't sure if I was just doing it wrong, but overall it was good.
+
+# Anuhea
+Overall Exerience With Website: 3/5
+1. choose more professional photo
+2. based off chosen photo, color the text boxes accordingly (ex: if you were to use the sunset pic, i'd make the text boxes shades of orange and yellow)
+3. make font a little smaller
+4. i want to see what john foo's personality would be
+5. if can, try add more tabs to utilize the top bar
+
+# Jeremiah
+Overall Exerience With Website: 3/5
+Issues so far:
+* In the CREATE/UPDATE PROFILE page, the text boxes are unable to receive/create new entries after clicking on any of the dropdown menus. They will only work again once the UPDATE button is clicked.
+* In the CREATE/UPDATE PROFILE page, clicking OK for either of the intractable clock widgets does nothing that I can see. There's no notification that pops up and says ""... has been updated"" or something.
+* In the SETTINGS page, in the DATA VISIBILITY section, the first option will be selected if you click on any text inside the gray box. This behavior is not replicated for any of the other options.
+* In the SETTINGS page, in the CUSTOMIZATION section, customizing roadmap colors does not save changes.
+* In the SETTINGS page, in the PINS section, I am unsure of what pins are and how they are implemented.
 
 
 ## Contract
