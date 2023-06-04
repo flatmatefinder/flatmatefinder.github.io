@@ -143,5 +143,5 @@ Every member of this team has signed and agreed to all of the terms in our [cont
 
 ## Team
 
-FlatmateFinder is designed, implemented, and maintained by [Nicholas Beydler](https://beydlern.github.io/), [Xavier Burt](https://xavierburt.github.io), [Kaysha Kealalio](https://kayshakk.github.io/), [Briana Lee](http://bri111.github.io/), and
+FlatmateFinder is designed, implemented, and maintained by [Nicholas Beydler](https://beydlern.github.io/), [Xavier Burt](https://xavierburt.github.io), [Kealohi K](https://kayshakk.github.io/), [Briana Lee](http://bri111.github.io/), and
 [Eric Orozco-Ciprian](https://erickorozcociprian.github.io/), 
